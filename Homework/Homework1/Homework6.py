@@ -1,3 +1,6 @@
+#Jayvee Bonus
+#Homework 6
+
 #Using everything we learned to day about Functional Programing, lambda and itters create one of each of the following:
 #Basic Lambda Function
 # Create a lambda function that takes one arguments and returns even or odd.
